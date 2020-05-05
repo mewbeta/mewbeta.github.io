@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My Learning Jekyll App
+title: μβ(mewbeta)
 email: milton.choo@ntu.edu.sg
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the github website for μβ. There is nothing much here,
+  except for some links to the stuff i am working on currently.
+baseurl: "" # the subpath of your site, e.g. /blog
+
 port: 5000
 host: 0.0.0.0
 
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
