@@ -1,3 +1,6 @@
-#mewbeta website
-##nothing here yet
+# mewbeta website
+
+## mewbeta learning  jekyll
+
+[mewbeta.github.io](http://mewbeta.github.io)
 
