@@ -1,10 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-my_number: 5
-
+layout: default
+title: Home
 ---
 
-hello world!!
+
+[Rehabilitation Research Institute of Singapore](https://rris.ntu.edu.sg)
+
+[RRIS Repository on Github](https://github.com/ntu-rris)
